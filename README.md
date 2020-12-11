@@ -9,6 +9,7 @@
 <br/>
 
 
+---
 
 **Footnotes**  
 <b id="f1">[1] — </b> Inspired from Scott H. Young's book [Ultralearning](https://www.scotthyoung.com/blog/ultralearning/) [↩](#a1)
