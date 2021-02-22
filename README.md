@@ -14,4 +14,4 @@
 **Footnotes**  
 <b id="f1">[1] — </b> Inspired from Scott H. Young's book [Ultralearning](https://www.scotthyoung.com/blog/ultralearning/) [↩](#a1)
 
-<p align="center"><img src="./files/cc-by-sa.svg"/</p>
+<p align="center"><img src="./files/all_rights_reserved.svg"/</p>
